@@ -1,2 +1,3 @@
 # LinearRegression-C
-Reads coordinates from datasets and uses LR formula
+> Data processing using Linear Regression 
+
